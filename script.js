@@ -1,4 +1,4 @@
-const words = "shagnik roy is super cool"; // Add more words if needed
+const words = "will you be my valentines date?"; // Add more words if needed
 
 const ANIMATION_DURATION = 4000; // Define your animation duration in milliseconds
 
